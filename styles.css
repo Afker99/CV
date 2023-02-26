@@ -1,0 +1,28 @@
+body{
+    background-color: #EEEEEE;
+}
+hr{
+    background-color: rgb(227, 236, 243);
+    border-color: #A5C9CA;
+    height: 0px;
+    border-style:dotted;
+    border-width: 1px 0px 0px;
+}
+h1{
+    color: #222831;
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+    background-color: #FFD369;
+}
+h3{
+    color: #222831;
+    font-family: Arial, sans-serif;
+    background-color: #FFD369;
+}
+
+p{
+    font-family: Arial, sans-serif;
+}
+table{
+    font-family: Arial, sans-serif;
+}
